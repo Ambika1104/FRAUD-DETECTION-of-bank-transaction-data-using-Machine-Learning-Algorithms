@@ -1,0 +1,2 @@
+# FRAUD-DETECTION-of-bank-transaction-data-using-Machine-Learning-Algorithms
+We have large dataset that consists of different bank transactions. This dataset consists of fraud and no fraud transactions. We have applied various machine learning algorithms (like: logistic regression, random forest, decision tree, gradient boosting &amp; k-NN) to find which model is best fit model to detect the fraud transaction in the dataset.
